@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=sel1nabd&theme=github-dark-blue" />
   </a>
 </p>
