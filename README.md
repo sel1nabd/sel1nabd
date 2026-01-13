@@ -1,7 +1,7 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E7AF7&width=435&lines=Hey+I'm+Selin" />
 
-### CS + Phil student @ UCL | I like building and maths (most of the time)
+### I like building and maths (most of the time)
 
 ### Things I'm learning or like using:
 <p align="center">
